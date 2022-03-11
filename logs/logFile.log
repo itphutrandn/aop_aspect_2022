@@ -1,0 +1,114 @@
+09:31:16.887 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 25068 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+09:31:16.913 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+09:31:16.914 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+09:31:20.795 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.327 seconds (JVM running for 5.168)
+09:31:27.456 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+09:31:27.459 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - getList -[]
+09:31:39.038 [http-nio-8080-exec-2] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+09:31:39.039 [http-nio-8080-exec-2] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - getList -[]
+09:31:43.455 [http-nio-8080-exec-3] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+09:31:43.455 [http-nio-8080-exec-3] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+09:31:47.567 [http-nio-8080-exec-4] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+09:31:47.567 [http-nio-8080-exec-4] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - edit -[]
+09:35:20.330 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 21332 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+09:35:20.333 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+09:35:20.333 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+09:35:33.660 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 9640 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+09:35:33.663 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+09:35:33.663 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+09:37:33.205 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 24744 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+09:37:33.208 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+09:37:33.208 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+09:37:37.075 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.432 seconds (JVM running for 5.326)
+10:05:37.011 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:05:37.014 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+10:05:37.025 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - -----------------After------------------
+10:05:37.025 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+10:06:19.703 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 24536 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:06:19.706 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:06:19.706 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:08:16.676 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 20436 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:08:16.678 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:08:16.679 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:08:35.671 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 17220 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:08:35.673 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:08:35.674 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:08:39.740 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.547 seconds (JVM running for 5.386)
+10:08:51.821 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:08:51.824 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+10:08:51.833 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - -----------------After------------------
+10:08:51.834 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+10:08:56.417 [http-nio-8080-exec-2] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:08:56.417 [http-nio-8080-exec-2] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - getList -[]
+10:09:07.185 [http-nio-8080-exec-3] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:09:07.185 [http-nio-8080-exec-3] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - edit -[]
+10:09:07.186 [http-nio-8080-exec-3] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - -----------------After------------------
+10:09:07.186 [http-nio-8080-exec-3] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - h2.console.h2console_junittest_mock.controllers.StudentController - edit -[]
+10:10:01.703 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 13852 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:10:01.706 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:10:01.707 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:10:05.519 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.257 seconds (JVM running for 5.132)
+10:10:12.951 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:10:12.954 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - list2 -[]
+10:10:43.653 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 18924 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:10:43.657 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:10:43.658 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:10:47.371 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.108 seconds (JVM running for 4.882)
+10:11:01.792 [http-nio-8080-exec-8] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:11:01.796 [http-nio-8080-exec-8] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - getList -[]
+10:15:09.392 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 22384 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:15:09.395 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:15:09.396 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:15:13.413 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.497 seconds (JVM running for 5.367)
+10:15:34.343 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 23872 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:15:34.346 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:15:34.347 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:15:38.113 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.171 seconds (JVM running for 4.945)
+10:15:53.088 [http-nio-8080-exec-4] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:15:53.091 [http-nio-8080-exec-4] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+10:15:53.092 [http-nio-8080-exec-4] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - -----------------After------------------
+10:15:53.093 [http-nio-8080-exec-4] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+10:17:50.436 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 25404 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:17:50.439 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:17:50.440 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:17:54.021 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 3.991 seconds (JVM running for 4.894)
+10:18:00.917 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:18:00.920 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+10:18:00.932 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - -----------------After------------------
+10:18:00.933 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectbeforeExecution - h2.console.h2console_junittest_mock.controllers.StudentController - add -[]
+10:18:16.973 [http-nio-8080-exec-2] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:18:16.974 [http-nio-8080-exec-2] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - getList -[]
+10:29:22.629 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 21036 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:29:22.632 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:29:22.633 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:29:26.609 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.576 seconds (JVM running for 5.504)
+10:29:41.848 [http-nio-8080-exec-4] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+10:29:41.852 [http-nio-8080-exec-4] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - h2.console.h2console_junittest_mock.controllers.StudentController - getList -[]
+10:39:22.534 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 24364 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:39:22.534 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:39:22.534 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:52:06.241 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 19316 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+10:52:06.244 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+10:52:06.245 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+10:52:10.406 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.599 seconds (JVM running for 5.58)
+10:52:15.414 [http-nio-8080-exec-1] DEBUG h.c.h.a.ApplicationLoggerAspectdefinePackagePointcuts - -----------------Before------------------
+11:30:45.554 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 18464 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+11:30:45.557 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+11:30:45.557 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+11:30:49.395 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.237 seconds (JVM running for 5.197)
+11:33:21.185 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 24300 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+11:33:21.189 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+11:33:21.189 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+11:33:25.474 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.758 seconds (JVM running for 5.704)
+13:07:23.498 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 12032 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+13:07:23.502 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+13:07:23.503 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+13:07:26.937 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 3.951 seconds (JVM running for 4.772)
+13:07:31.284 [http-nio-8080-exec-1] ERROR h.c.h.a.ApplicationLoggerAspectlogAfterThrowing - Target Method resulted into exception, message Hello girl
+13:08:34.885 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarting - Starting H2consoleJunitTestMockApplication using Java 13.0.2 on JohnTran with PID 11872 (C:\java8\h2console_JunitTest_Mock\build\classes\java\main started by itphu in C:\java8\h2console_JunitTest_Mock)
+13:08:34.887 [main] DEBUG h.c.h.H2consoleJunitTestMockApplicationlogStarting - Running with Spring Boot v2.6.4, Spring v5.3.16
+13:08:34.888 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStartupProfileInfo - The following 1 profile is active: "production"
+13:08:38.650 [main] INFO  h.c.h.H2consoleJunitTestMockApplicationlogStarted - Started H2consoleJunitTestMockApplication in 4.157 seconds (JVM running for 5.151)
+13:08:46.451 [http-nio-8080-exec-1] ERROR h.c.h.a.ApplicationLoggerAspectlogAfterThrowing - Target Method resulted into exception, message Null pointer exception
+13:09:25.839 [http-nio-8080-exec-2] ERROR h.c.h.a.ApplicationLoggerAspectlogAfterThrowing - Target Method resulted into exception, message Null pointer exception
+13:09:27.014 [http-nio-8080-exec-4] ERROR h.c.h.a.ApplicationLoggerAspectlogAfterThrowing - Target Method resulted into exception, message Null pointer exception
